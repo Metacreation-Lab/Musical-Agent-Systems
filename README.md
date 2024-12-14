@@ -5,3 +5,8 @@ MASOM, MACAT, and MACataRT musical agents are being refined before we release th
 
 Showcase of MACAT musical agent system through Revival audiovisual music improvisation by K-Phi-A artist collective:
 https://www.metacreation.net/projects/revival-art 
+
+Showcase of MACataRT musical agent system at AI Song Contest Finalist Music Improvisation and Composition:
+- Top 10 Finalist AI Music Song Contest (2024) \\ URL:  \url{https://www.aisongcontest.com/the-2024-finalists} (Last accessed: 14th of November, 2024).
+
+- KeRa's Music Performance as a Top 10 Finalist at Zürich, Switzerland (2024) \\ URL: \url{https://www.youtube.com/live/2ojQEGNUXic?si=nEmzbR_yCyhyk1aS&t=4499} (Last accessed: 14th of November, 2024).
